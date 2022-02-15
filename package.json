@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "open-props": "^1.3.7",
+    "sass": "^1.49.7",
+    "vite": "^2.8.2"
+  }
+}
